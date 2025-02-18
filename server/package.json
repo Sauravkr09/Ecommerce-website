@@ -1,7 +1,7 @@
 {
-  "name": "ecommerce website",
+  "name": "ecommerce-website",
   "version": "1.0.0",
-  "description": "A E-commerce website.",
+  "description": "An E-commerce website.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,22 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sauravkr09/Ecommerce-website?tab=readme-ov-file"
+    "url": "https://github.com/Sauravkr09/Ecommerce-website.git"
   },
-  "author": "Saurav kumar | https://Saurav-Kumar.github.io",
+  "author": "Saurav Kumar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sauravkr09/Ecommerce-website?tab=readme-ov-file"
+    "url": "https://github.com/Sauravkr09/Ecommerce-website/issues"
   },
-  
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "braintree": "^3.0.0",
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
+    "ecommerce-website": "file:",
     "express": "^4.17.1",
-    "Hayroo": "file:",
     "i": "^0.3.6",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.27",
