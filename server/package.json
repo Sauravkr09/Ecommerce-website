@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Saurav-Kumar/MERN_Stack_Project_Hayroo_Ecommerce/issues"
   },
-  "homepage": "https://github.com/Saurav-Kumar/MERN_Stack_Project_Hayroo_Ecommerce#readme",
+  
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "braintree": "^3.0.0",
